@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:blogChannel="http://backend.userland.com/rss">
 	<channel>
-		<title>Orica</title>
+		<title>Welcome to SAP Launchpad, your single point of access for all SAP applications.  Over the coming months, in line with upcoming 4S Releases,  all  SAP applications will be accessible from this Launchpad.</title>
 		<link>https://launchpad.orica.net</link>
-		<description>Welcome to SAP Launchpad, your single point of access for all SAP applications.  Over the coming months, in line with upcoming 4S Releases,  all  SAP applications will be accessible from this Launchpad.</description>
+		<description></description>
 		<copyright>(c) Orica (http://stage.orica.com/), 2018.  All content is provided under the copyright of the feed provider.  Please address all syndication queries to the webmaster.  All rights reserved.</copyright>
 		<generator>elcomCMS</generator>
 		<item>
 			<title> Orica SAP Launchpad </title>
 			<startdate>04 Jan 2018</startdate>
 			<link>https://launchpad.orica.net</link>
-			<description>Welcome to SAP Launchpad, your single point of access for all SAP applications.  Over the coming months, in line with upcoming 4S Releases,  all  SAP applications will be accessible from this Launchpad.</description>
+			<description></description>
 			<category>Overview</category>
 			<pubDate>Thu, 04 Jan 2018 06:00:00 GMT</pubDate>
 		</item>
