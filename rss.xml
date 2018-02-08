@@ -1,18 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:blogChannel="http://backend.userland.com/rss">
-	<channel>
-		<title></title>
-		<link>https://sapfes-sp,es.orica.net/fiori</link>
-		<description></description>
-		<copyright>(c) Orica (http://stage.orica.com/), 2018.  All content is provided under the copyright of the feed provider.  Please address all syndication queries to the webmaster.  All rights reserved.</copyright>
-		<generator>elcomCMS</generator>
-		<item>
-			<title>In the meantime, please use the existing links to access the systems that you require.</title>
-			<startdate>04 Jan 2018</startdate>
-			<link>https://sapfes-sp,es.orica.net/fiori</link>
-			<description></description>
-			<category>Overview</category>
-			<pubDate>Thu, 04 Jan 2018 06:00:00 GMT</pubDate>
-		</item>
-	</channel>
-</rss>
+<?xml version="1.0" encoding="utf-8"?><rss version="2.0" xmlns:blogChannel="http://backend.userland.com/rss"><channel><title>Orica</title><link>http://www.orica.com/</link><description>Orica</description><copyright>(c) Orica (http://www.orica.com/), 2018.  All content is provided under the copyright of the feed provider.  Please address all syndication queries to the webmaster.  All rights reserved.</copyright><generator>elcomCMS</generator><item><title>In the meantime, please use the existing links to access the systems that you require.GIT.</title><startdate>02 Feb 2018</startdate><link></link><description>SAP Launchpad Link</description><category>4S News</category><pubDate>Fri, 02 Feb 2018 04:48:00 GMT</pubDate></item></channel></rss>
